@@ -6,6 +6,7 @@ import Footer from '../components/footer'
 
 export default function Home() {
   return (
+      
     <>
       <Head>
         <title>Blog Santé Mentale</title>

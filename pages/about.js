@@ -1,4 +1,6 @@
 import Head from 'next/head';
+import Header from '../components/header';
+import Footer from '../components/footer'; 
 
 export default function About() {
   return (
@@ -7,6 +9,8 @@ export default function About() {
         <title>À propos - Blog Santé Mentale</title>
         <meta name="description" content="Notre mission : le bien-être mental pour tous." />
       </Head>
+
+      <Header /> {/* Add the Header component here */}
 
       <div className="about-page">
         <header className="about-header">
@@ -73,6 +77,8 @@ export default function About() {
           </p>
         </section>
       </div>
+
+      <Footer /> 
     </>
   );
 }
