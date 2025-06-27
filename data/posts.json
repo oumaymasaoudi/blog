@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "sommeil-et-anxiete",
+    "title": "Le lien entre sommeil et anxiété",
+    "description": "Comment améliorer son sommeil pour réduire l’anxiété ?",
+    "type": "Article",
+    "author": "Marie Dupont",
+    "date": "2025-06-25",
+    "readTime": "4 min de lecture",
+    "image": "/images/sommeil.jpg",
+    "content": "Un bon sommeil régule les émotions, renforce le système immunitaire et améliore la concentration. Le manque de sommeil aggrave les troubles anxieux, ce qui crée un cercle vicieux entre anxiété et insomnie.\n\nPour améliorer votre sommeil :\n\n1. Adoptez une routine de coucher régulière.\n2. Évitez les écrans au moins une heure avant de dormir.\n3. Pratiquez des techniques de relaxation comme la respiration profonde.\n4. Limitez la caféine et les repas lourds le soir.\n\nUn sommeil réparateur contribue directement à un bien-être mental plus stable et réduit l’intensité des épisodes anxieux."
+  },
+  {
+    "slug": "burnout-prevention",
+    "title": "Prévenir le burnout",
+    "description": "Reconnaître les signes d’épuisement mental et comment y faire face.",
+    "type": "Conseil",
+    "author": "Dr. Jean Leblanc",
+    "date": "2025-06-20",
+    "readTime": "5 min de lecture",
+    "image": "/images/burnout.png",
+    "content": "Le burnout est un état d'épuisement émotionnel, mental et physique causé par un stress chronique. Il peut toucher aussi bien les professionnels que les étudiants ou les aidants familiaux.\n\nSymptômes :\n- Fatigue persistante\n- Perte de motivation\n- Troubles du sommeil\n- Irritabilité ou repli sur soi\n\nPrévention :\n- Apprenez à dire non.\n- Fixez des limites claires entre vie pro et perso.\n- Planifiez des moments de repos dans la semaine.\n- Pratiquez une activité physique régulière.\n\nN’attendez pas le point de rupture. Préserver sa santé mentale est essentiel pour durer dans le temps."
+  },
+  {
+    "slug": "meditation-bien-etre",
+    "title": "La méditation pour le bien-être mental",
+    "description": "Les bienfaits de la pleine conscience au quotidien.",
+    "type": "Pratique",
+    "author": "Sophie Martin",
+    "date": "2025-06-22",
+    "readTime": "3 min de lecture",
+    "image": "/images/meditation.jpg",
+    "content": "La méditation est une pratique millénaire de plus en plus adoptée dans les approches modernes du bien-être. Elle permet de mieux gérer le stress, d’améliorer la concentration et de retrouver une paix intérieure durable.\n\nAvantages :\n- Réduction du stress et de l’anxiété\n- Amélioration de l’attention et de la mémoire\n- Meilleur contrôle des émotions\n- Sommeil de meilleure qualité\n\nEssayez de méditer 10 minutes par jour, en vous concentrant sur votre respiration. Des applications comme Petit Bambou ou Calm peuvent vous aider à commencer facilement.\n\nLa régularité est la clé pour ressentir les effets positifs."
+  }
+]
