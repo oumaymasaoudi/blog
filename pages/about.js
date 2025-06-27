@@ -67,7 +67,8 @@ export default function About() {
         {/* CONTACT */}
         <section className="contact-section">
           <h2>Restons en contact</h2>
-          <p>Votre bien-être nous tient à cœur. N&apos;hésitez pas à nous écrire : <br />
+          <p>
+            Votre bien-être nous tient à cœur. N&apos;hésitez pas à nous écrire : <br />
             <a href="mailto:contact@bienetre-mental.fr">contact@glowcare-mental.fr</a>
           </p>
         </section>
