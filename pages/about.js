@@ -47,7 +47,7 @@ export default function About() {
               <div className="avatar">MD</div>
               <h3>Dr. Marie Dupont</h3>
               <p>Psychologue clinicienne</p>
-              <p>Spécialiste dans la gestion du stress et de l’anxiété, 15 ans d’expérience.</p>
+              <p>Spécialiste dans la gestion du stress et de l'anxiété, 15 ans d'expérience.</p>
             </div>
             <div className="team-card">
               <div className="avatar">SM</div>
