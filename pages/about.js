@@ -11,14 +11,14 @@ export default function About() {
       <div className="about-page">
         <header className="about-header">
           <h1>À propos de nous</h1>
-          <p>Nous croyons que chacun mérite d'avoir accès à des ressources de qualité pour prendre soin de sa santé mentale.</p>
+          <p>Nous croyons que chacun mérite d&apos;avoir accès à des ressources de qualité pour prendre soin de sa santé mentale.</p>
         </header>
 
         {/* MISSION */}
         <section className="mission-section">
           <h2>Notre Mission</h2>
           <p className="mission-text">
-            Démocratiser l'accès à l'information sur la santé mentale et fournir des outils pratiques pour cultiver le bien-être au quotidien.
+            Démocratiser l&apos;accès à l&apos;information sur la santé mentale et fournir des outils pratiques pour cultiver le bien-être au quotidien.
           </p>
           <div className="principles">
             <div className="principle-card">
@@ -47,7 +47,7 @@ export default function About() {
               <div className="avatar">MD</div>
               <h3>Dr. Marie Dupont</h3>
               <p>Psychologue clinicienne</p>
-              <p>Spécialiste dans la gestion du stress et de l'anxiété, 15 ans d'expérience.</p>
+              <p>Spécialiste dans la gestion du stress et de l&apos;anxiété, 15 ans d&apos;expérience.</p>
             </div>
             <div className="team-card">
               <div className="avatar">SM</div>
@@ -67,7 +67,7 @@ export default function About() {
         {/* CONTACT */}
         <section className="contact-section">
           <h2>Restons en contact</h2>
-          <p>Votre bien-être nous tient à cœur. N'hésitez pas à nous écrire : <br />
+          <p>Votre bien-être nous tient à cœur. N&apos;hésitez pas à nous écrire : <br />
             <a href="mailto:contact@bienetre-mental.fr">contact@glowcare-mental.fr</a>
           </p>
         </section>
